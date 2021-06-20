@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationWithTDD
+
+  Created by Oliver Jordy Pérez Escamilla on 19/06/21.
+  
+*/
+
+"MAIN_TITLE" = "My title";
